@@ -4,6 +4,6 @@ Topic : Studying Abroad
 
 1) Google maps
 2) Google translate
-3) Applications on different Operating Systems (Mac, Android, Windows, linux)
-4) Archive of old files
-5) Financial support/Scholarships
+3) Applications on different Operating Systems (Android)
+4) Donation
+5) Providing free and quality videos (Lectures)
